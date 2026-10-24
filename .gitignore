@@ -20,3 +20,4 @@ slprj/
 
 # Remove temporary text files
 *~
+uv.lock
